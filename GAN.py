@@ -1,3 +1,7 @@
+## GAN model to generate new MNIST-like pictures of numbers
+
+
+
 import matplotlib.pyplot as plt
 import numpy as np
 from keras.datasets import mnist
